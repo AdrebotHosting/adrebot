@@ -1,2 +1,2 @@
 web:
-start: node app.js
+worker: node app.js
